@@ -24,7 +24,7 @@ Anda memiliki kendali penuh atas data Anda. Anda dapat mengubah atau menghapus c
 Kami menghormati hak Anda atas perlindungan data pribadi sesuai Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi.
 ## 9. Perubahan Kebijakan Privasi
 Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu, misalnya jika ada fitur baru. Setiap perubahan akan diumumkan di halaman ini dengan tanggal berlaku yang diperbarui. Jika perubahan tersebut melibatkan pengumpulan data, kami akan memberitahukannya melalui Aplikasi sebelum perubahan berlaku.
-10. Hubungi Kami
+## 10. Hubungi Kami
 Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami:
 Email: almiraamandaluna@gmail.com
 Pengembang: Almira
