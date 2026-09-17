@@ -1,7 +1,7 @@
 # Kebijakan Privasi Spenzy
 Tanggal berlaku: [tanggal, misal 17 September 2026]
 ## 1. Pendahuluan
-Spenzy ("Aplikasi") adalah aplikasi pencatatan keuangan sederhana yang membantu siswa mencatat uang jajan dan pengeluaran harian. Aplikasi ini dikembangkan oleh [nama Anda/nama usaha] ("kami").
+Spenzy ("Aplikasi") adalah aplikasi pencatatan keuangan sederhana yang membantu siswa mencatat uang jajan dan pengeluaran harian. Aplikasi ini dikembangkan oleh tim Amira ("kami").
 Kebijakan Privasi ini menjelaskan informasi apa yang diproses oleh Aplikasi, cara informasi tersebut disimpan, dan hak Anda sebagai pengguna. Dengan menggunakan Spenzy, Anda menyetujui isi Kebijakan Privasi ini.
 ## 2. Informasi yang Kami Kumpulkan
 Kami tidak mengumpulkan data pribadi apa pun. Spenzy dapat digunakan tanpa login, registrasi, atau verifikasi email. Kami tidak meminta dan tidak mengumpulkan nama, alamat email, nomor telepon, lokasi, kontak, foto, maupun informasi identitas lainnya.
