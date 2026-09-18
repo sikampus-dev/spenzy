@@ -1,5 +1,5 @@
 # Kebijakan Privasi Spenzy
-Tanggal berlaku: [tanggal, misal 17 September 2026]
+Tanggal berlaku: tanggal, 17 September 2026
 ## 1. Pendahuluan
 Spenzy ("Aplikasi") adalah aplikasi pencatatan keuangan sederhana yang membantu siswa mencatat uang jajan dan pengeluaran harian. Aplikasi ini dikembangkan oleh tim Amira ("kami").
 Kebijakan Privasi ini menjelaskan informasi apa yang diproses oleh Aplikasi, cara informasi tersebut disimpan, dan hak Anda sebagai pengguna. Dengan menggunakan Spenzy, Anda menyetujui isi Kebijakan Privasi ini.
